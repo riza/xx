@@ -1,5 +1,21 @@
- {
-    "scripts": {
-      "postinstall": "open -a Calculator"
-    }
-  }
+{
+  "name": "testoriza", 
+  "version": "1.0.0",
+  "description": "testoriza",
+  "main": "index.js",
+  "bin": {
+    "scanner": "index.js" 
+  },
+  "scripts": {
+    "postinstall": "open -a Calculactor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riza/xx.git"
+  },
+  "keywords": [
+  ],
+  "author": "testoriza",
+  "license": "MIT",
+  "dependencies": {}
+}
