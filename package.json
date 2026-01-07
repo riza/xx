@@ -1,0 +1,5 @@
+ {
+    "scripts": {
+      "postinstall": "open -a Calculator"
+    }
+  }
